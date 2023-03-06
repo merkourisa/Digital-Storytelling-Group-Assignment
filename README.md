@@ -21,9 +21,8 @@ The purpose of this project assignment is to play the role of a transmedia produ
 6. Use the answers in step 2 to prepare the presentation of your concept. You should edit the README.md found in the our_presentation folder. During the presentation you will have to define the designed world and explain what kind of media are appropriate for the demo of the story.
 
 ## Deadlines
-- **Deliverable 1**  (Steps 1):     until 17/03/2023
-- **Deliverable 2**  (Steps 2):     until 28/04/2023
-- **Deliverable 3**  (Steps 3-6):   until 02/06/2023
+- **Deliverable 1**  (Steps 1-2):     until 07/04/2023
+- **Deliverable 2**  (Steps 3-6):     until 02/06/2023
 
 ## Grading 
 The group assignment will contribute up to 5 points in the grade. Each member of the team will get the same grade.
