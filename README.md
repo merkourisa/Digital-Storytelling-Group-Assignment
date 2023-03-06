@@ -34,7 +34,7 @@ You submit in the coordinator's Github repository:
 - Single [report](our_report/README.md) for the design document (20 pages max): Describes the design research and processes of step 2 (++++)
 - Link to your short movie video . (++++)
 - Single [presentation](our_presentation/README.md)
-- Any files you consider important (e.g. senario, storyboards  etc) (+++)
+- Any files you consider important (e.g. scenario, storyboards  etc) (+++)
 
 ## Questions
 
