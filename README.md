@@ -1,6 +1,6 @@
 # Digital-Storytelling-Group-Assignment
 
-The purpose of this project assignment is to play the role of a transmedia producer by creating content across multiple platforms. Thus you have to make a short film and, additionally, you have to create a comics or a game or a book (audio or augmented-reality), a real-time animation that connects with the storyworld of your short-film.
+The purpose of this project assignment is to play the role of a transmedia producer by creating content across multiple platforms. Thus, you have to make a short film and, additionally, you have to create a comics or a game or a book (audio or augmented-reality), a real-time animation that connects with the storyworld of your short-film.
 
 ## Initial Settings
 - You must first create a [Github](https://github.com/) account, using the university email, and then fork the [repository](https://github.com/merkourisa/Digital-Storytelling-Group-Assignment).
