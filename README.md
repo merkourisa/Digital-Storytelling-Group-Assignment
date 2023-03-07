@@ -21,7 +21,7 @@ The purpose of this project assignment is to become a transmedia producer by cre
 6. Use the answers in step 3 to prepare the presentation of your concept. You should edit the [README.md](our_presentation/README.md) found in the our_presentation folder. During the presentation you will have to define the designed world and explain what kind of media are appropriate for the demo of the story. In the [our_presentation/dpsdXXXXX/ folder](our_presentation/dpsdXXXXX/) you can find a presentation example that will help you prepare your own presentation.
 
 ## Deadlines
-- **Deliverable 1**  (Steps 1-2):     until 07/04/2023
+- **Deliverable 1**  (Steps 1-2):     until 31/03/2023
 - **Deliverable 2**  (Steps 3-6):     until 02/06/2023
 
 ## Grading 
