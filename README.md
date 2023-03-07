@@ -1,6 +1,6 @@
 # Digital-Storytelling-Group-Assignment
 
-The purpose of this project assignment is to play the role of a transmedia producer by creating content across multiple platforms. Thus, you have to make a short film and, additionally, you have to create a comics or a game or a book (audio or augmented-reality), a real-time animation that connects with the storyworld of your short-film.
+The purpose of this project assignment is to become a transmedia producer by creating content across multiple platforms. Thus, you have to make a short film and, additionally, you have to create a comics or a game or a book (audio or augmented-reality) or a real-time animation that connects with the storyworld of your short-film.
 
 ## Initial Settings
 - You must first create a [Github](https://github.com/) account, using the university email, and then fork the [repository](https://github.com/merkourisa/Digital-Storytelling-Group-Assignment).
@@ -14,7 +14,7 @@ The purpose of this project assignment is to play the role of a transmedia produ
 
 ## Steps to consider for the final submission (+ importance):
 1.	You must create a team of 3-5 fellow students (collaborators). See in the discussion session the procedure for creating the teams. You must choose a coordinator per team. The coordinator will be responsible for uploading the necesserary documents in his/her repository only in markdown format.
-2.	Read the article **Transmedia Project Design: Theoretical and Analytical Considerations** found in the Transmedia folder. Start working on your team project by answering the questions indicated in the second section of the article. You should edit the README.md found in the Transmedia folder.
+2.	Read the article [**Transmedia Project Design: Theoretical and Analytical Considerations**](Transmedia/transmedia_project_design.PDF) found in the [Transmedia folder](Transmedia/). Start working on your team project by answering the questions indicated in the second section of the article. You should edit the [README.md](Transmedia/README.md) found in the Transmedia folder. In the [Transmedia/dpsdXXXXX/ folder](Transmedia/dpsdXXXXX/) you can find an example that will help write you own Transmedia Project Design.
 3. Create you design document. You should edit the README.md found in the our_design folder.
 4. Create your short film and upload the demo in youtube. Insert the link of your demo in the design document.
 5. Create the additional context (book, game, animation, comic) that connects with the storyworld of your short-film 
@@ -25,7 +25,7 @@ The purpose of this project assignment is to play the role of a transmedia produ
 - **Deliverable 2**  (Steps 3-6):     until 02/06/2023
 
 ## Grading 
-The group assignment will contribute up to 5 points in the grade. Each member of the team will get the same grade.
+The group assignment will contribute up to 7 points in the grade. Each member of the team will get the same grade.
 
 ## Report
 You submit in the coordinator's Github repository:
