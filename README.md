@@ -39,6 +39,26 @@ You submit in the coordinator's Github repository:
 
 For any questions, regarding the deliverables, in the Discussions session, not only you can ask but you can also answer. 
 
+## Short Films from the Past
+- [THE BASEMENT](https://www.youtube.com/watch?v=6yT7EdUSN5M)
+- [Everyday_fairytale](https://drive.google.com/file/d/1ie70OirumXJMxRya6I_9pRdlgcUw0NX-/view)
+- [Team 52 Movie](https://www.youtube.com/watch?v=AAUE6iDslLI)
+- [Team 53 Movie](https://www.youtube.com/watch?v=MOX14rD1fN8)
+- [Team 55 Movie](https://www.youtube.com/watch?v=2D7LWxjYFxE)
+- [Team 58 Movie](https://www.youtube.com/watch?v=BtAM5yqtvXw)
+- [Team 59 Movie](https://www.youtube.com/watch?v=VsuMPA9xsqs)
+- [Team 59 Poem](https://www.youtube.com/watch?v=j4rzx4MxN6U)
+- [Team 62 Movie](https://www.youtube.com/watch?v=Uimto_xT9Nw)
+- [Team 63 Movie](https://www.youtube.com/watch?v=lGuykm58jYU)
+- [Team 64 Movie](https://www.youtube.com/watch?v=2Gf-6rvSXak)
+- [Team 65 Movie](https://drive.google.com/file/d/1BGKL_pymjRnq0gbJGEX6qs4-1YKeSEwb/view)
+- [Team 66 Movie](https://www.youtube.com/watch?v=glcxDrLzE3c)
+- [Team 67 Movie](https://www.youtube.com/watch?v=AI9fv5fBOSg)
+- [Team 68 Movie](https://www.youtube.com/watch?v=5WVqkL4sKoE)
+- [Team 69 Movie](https://www.youtube.com/watch?v=-8XipnfXXMM)
+- [Team 71 Movie](https://www.youtube.com/watch?v=GEQVevFOM1E)
+- [Team 72 Movie](https://www.youtube.com/watch?v=eWsIMo9eb7w)
+
 ## Resources
 
 - [Basic writing and formatting syntax in Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
