@@ -1,5 +1,5 @@
 # Lesson: Digital Storytelling
-# Transmedia Report
+# Transmedia Document
 
 ### First and Last Name: xxx (all members of the team)
 ### University Registration Number: dpsdxxxxx (all members of the team)
