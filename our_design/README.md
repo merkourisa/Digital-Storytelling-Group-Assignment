@@ -196,84 +196,7 @@ Filler Γκρεμού
 
 12.2. Business Model Canvas
 
-
-Key Partners
-Key Activities
-Key Resources
-Value Proposition
-Customer Relationship
-Ηθοποιοί
-Κατανομή Ρόλων
-iPhone 13
-Μυστήριο
-Παρακολούθηση
-Μοντέρ
-Σενάριο & Υπόθεση
-PC
-Δράμα
-Σχολιασμός
-Καμεραμάν
-Λήψη Πλάνων
-Adobe Suite
-Κινηματογραφία
-Συζήτηση
-3D Artist
-Video Editing
-Blender
-DIY Project
-
-
-Σεναριογράφος
-Project Management
-Audacity
-
-
-
-
-
-
-Art Direction
-Μεταφορικά Μέσα
-
-
-
-
-
-
-Ηχογράφηση Audiobook
-Microphone
-
-
-
-
-Channels
-Customer Segments
-Cost Structure
-Revenue Streams
-
-
-Youtube
-Σινεφίλ
-Αναλώσιμα
-Monetization Καναλιού
-
-
-Αφίσες
-Φοιτητές & Καθηγητής
-Βενζίνη
-
-
-
-
-Social Media
-Λάτρεις Μυστηρίου- Δράματος
-
-
-
-
-
-
-
+![Screenshot (201)](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/assets/95039739/6b402610-3481-41cb-b3ef-a771cd58bc4c)
 
 
 Εξοπλισμός
@@ -325,6 +248,11 @@ Casting
 Προσπαθήσαμε γενικά να συμπεριλάβουμε το στοιχείο του νερού καθώς σαν οντότητα είναι πολύ σημαντικό στην αφήγηση. Ειδική αναφορά θα πρέπει να κάνουμε επίσης στα 3D πλάνα, τα οποία ενορχηστρώνουν άψογα τη μορφή του ονειρικού κόσμου.
 
 
+Σκηνές 
+
+
+
+![Screenshot (204)](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/assets/95039739/d897fcb2-b087-4c32-b588-cef0ff48da19)
 
 
 
@@ -336,10 +264,16 @@ Casting
 
 
 
+![Screenshot (205)](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/assets/95039739/ff0f85df-4f2c-4593-9362-92bf473125bb)
 
 
 
 
+
+
+
+
+![Screenshot (207)](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/assets/95039739/559f1f44-c25a-4066-87d6-85560be25002)
 
 
 
