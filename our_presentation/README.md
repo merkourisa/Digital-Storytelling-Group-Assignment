@@ -7,3 +7,8 @@
 
 
 [BoomersTalk_GitHub_Presentation.pdf](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/files/11633704/BoomersTalk_GitHub_Presentation.pdf)
+
+
+
+
+https://docs.google.com/presentation/d/1YBH9T4OcLpV85TS4zOP1FO73EEf2jcR5/edit#slide=id.p14 (link για την παρουσίαση σε περίπτωση που δεν μπορεί να ανοίξει το pdf από πάνω. Το μέγεθος ήταν μεγάλο του pptx. 
