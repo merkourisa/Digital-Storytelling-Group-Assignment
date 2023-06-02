@@ -6,5 +6,6 @@
 ### GitHub Personal Profile: https://github.com/dpsd17031
 
 
+[BoomersTalk_DigitalStorytelling_Report.pdf](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/files/11633708/BoomersTalk_DigitalStorytelling_Report.pdf)
 
-[BoomersTalk_GitHub_Presentation.pdf](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/files/11633657/BoomersTalk_GitHub_Presentation.pdf)
+
