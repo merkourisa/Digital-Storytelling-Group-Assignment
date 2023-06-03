@@ -3,8 +3,8 @@
 
 ### First and Last Name: Μπέκας Γεωργιος
 Δημήτριος Χαιρετάκης 
-Δημητρακόπουλος Εμμανουήλ: https://github.com/dpsd17031
-Ηλίας Βρέντας: https://github.com/dpsd17016
+Δημητρακόπουλος Εμμανουήλ
+Ηλίας Βρέντας
 ### University Registration Number: dpsd17072
 dpsd17120
 dpsd17031
