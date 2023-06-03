@@ -1,15 +1,15 @@
 # Lesson: Digital Storytelling
 # Transmedia Document
 
-### First and Last Name: Μπέκας Γεωργιος:  https://github.com/YBekas
-Δημήτριος Χαιρετάκης: https://github.com/dpsd17120
+### First and Last Name: Μπέκας Γεωργιος
+Δημήτριος Χαιρετάκης 
 Δημητρακόπουλος Εμμανουήλ: https://github.com/dpsd17031
 Ηλίας Βρέντας: https://github.com/dpsd17016
 ### University Registration Number: dpsd17072
 dpsd17120
 dpsd17031
 dpsd17016
-### GitHub Personal Profile: [https://github.com/dpsd17031](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/tree/patch-1)
+### GitHub Personal Profile: [https://github.com/dpsd17031](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/tree/patch-1), https://github.com/dpsd17120,  https://github.com/YBekas ,  https://github.com/dpsd17016
 
 
 1.1. What is the project about?
