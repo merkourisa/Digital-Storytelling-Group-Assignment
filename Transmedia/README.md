@@ -5,9 +5,9 @@
 Δημήτριος Χαιρετάκης, 
 Δημητρακόπουλος Εμμανουήλ,
 Ηλίας Βρέντας
-### University Registration Number: dpsd17072
-dpsd17120
-dpsd17031
+### University Registration Number: dpsd17072,
+dpsd17120,
+dpsd17031,
 dpsd17016
 ### GitHub Personal Profile: [https://github.com/dpsd17031](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/tree/patch-1), https://github.com/dpsd17120,  https://github.com/YBekas ,  https://github.com/dpsd17016
 
