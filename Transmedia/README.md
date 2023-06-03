@@ -9,7 +9,7 @@
 dpsd17120
 dpsd17031
 dpsd17016
-### GitHub Personal Profile: https://github.com/dpsd17031
+### GitHub Personal Profile: [https://github.com/dpsd17031](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/tree/patch-1)
 
 
 1.1. What is the project about?
