@@ -29,3 +29,6 @@ https://docs.google.com/presentation/d/1YBH9T4OcLpV85TS4zOP1FO73EEf2jcR5/edit#sl
 ![image](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/assets/95039739/82bc5ccf-6686-4326-8af0-e07222afcdb3)
 ![image](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/assets/95039739/72cc4776-8427-42b3-9c09-061b85ea7aa6)
 ![image](https://github.com/dpsd17031/Digital-Storytelling-Group-Assignment/assets/95039739/2bd97de8-94e1-4fa6-bbd2-cf00ab2b2339)
+
+Link Ταινίας: https://www.youtube.com/watch?v=LUvd199--44&t=671s
+Link Audiobook: https://www.youtube.com/watch?v=SOtuWGr0IIM&t=1s
