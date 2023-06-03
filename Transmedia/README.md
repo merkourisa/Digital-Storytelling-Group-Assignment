@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 # Transmedia Document
 
-### First and Last Name: Μπέκας Γεωργιος
-Δημήτριος Χαιρετάκης 
-Δημητρακόπουλος Εμμανουήλ
+### First and Last Name: Μπέκας Γεωργιος,
+Δημήτριος Χαιρετάκης, 
+Δημητρακόπουλος Εμμανουήλ,
 Ηλίας Βρέντας
 ### University Registration Number: dpsd17072
 dpsd17120
