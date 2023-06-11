@@ -39,6 +39,28 @@ You submit in the coordinator's Github repository:
 
 For any questions, regarding the deliverables, in the Discussions session, not only you can ask but you can also answer. 
 
+## Short Films from the Present
+- [Time Out](https://www.youtube.com/watch?v=fvEtnF30FW8)
+- [Our Favourite Place on Earth](https://www.youtube.com/watch?v=l5qGuRYPptI)
+- [eye contact](https://www.youtube.com/watch?v=jEbomFPJs2k)
+- [Two for Tea: Έρωτας](https://www.youtube.com/watch?v=MraQIs81NiQ)
+- [Higher Education | Short Film (2023)](https://www.youtube.com/watch?v=bc04u66Ivcg)
+- [Querky's Treasure](https://www.youtube.com/watch?v=OqKA6UkUlKs)
+- [Τραπέζι για 4](https://www.youtube.com/watch?v=lpHfo-lu0Ko)
+- [Self](https://www.youtube.com/watch?v=zwgSVXj_yWU)
+- [A Struggling Artist](https://www.youtube.com/watch?v=osTQKIYznfU)
+- [Syros Saga: Romeo and Juliet](https://www.youtube.com/watch?v=v05EKYTmJDM)
+- [The napkin](https://www.youtube.com/watch?v=BIGyMqpHrJs)
+- [Fantastic world](https://www.youtube.com/watch?v=j-7Gx280qXY)
+- [Behind the spiders](https://www.youtube.com/watch?v=TG4BJjcgo98)
+- [PowerPuffGirls The Last Mission](https://www.youtube.com/watch?v=Jk2zhc07Ti0)
+- [CHALLENGE THE MOVIE](https://www.youtube.com/watch?v=pLjKl_ncVrM)
+- [Greek Souvlaki out of LEGO Bricks](https://www.youtube.com/watch?v=Muk_bxGY9eM)
+- [Wrong Choices?](https://www.youtube.com/watch?v=oJPZtuFyLb0)
+- [The Stalker](https://www.youtube.com/watch?v=E8emD6E6W7c)
+- [10 Ερωτήματα, 10 Αντιδράσεις, 10 Φράσεις](https://www.youtube.com/watch?v=OjY0Kr_76jo)
+- [Dreams of the Blue](https://www.youtube.com/watch?v=LUvd199--44&t=3s) 
+
 ## Short Films from the Past
 - [THE BASEMENT](https://www.youtube.com/watch?v=6yT7EdUSN5M)
 - [Everyday_fairytale](https://drive.google.com/file/d/1ie70OirumXJMxRya6I_9pRdlgcUw0NX-/view)
