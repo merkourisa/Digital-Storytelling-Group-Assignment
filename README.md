@@ -41,7 +41,7 @@ For any questions, regarding the deliverables, in the Discussions session, not o
 
 ## Short Films from the Present
 - [Time Out](https://www.youtube.com/watch?v=fvEtnF30FW8)
-- [Our Favourite Place on Earth](https://www.youtube.com/watch?v=l5qGuRYPptI)
+- [Our Favourite Place on Earth](https://www.youtube.com/watch?v=XqAV9YPdas0)
 - [eye contact](https://www.youtube.com/watch?v=jEbomFPJs2k)
 - [Two for Tea: Έρωτας](https://www.youtube.com/watch?v=MraQIs81NiQ)
 - [Higher Education | Short Film (2023)](https://www.youtube.com/watch?v=bc04u66Ivcg)
