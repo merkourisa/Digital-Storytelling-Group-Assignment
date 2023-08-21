@@ -25,7 +25,12 @@ The purpose of this project assignment is to become a transmedia producer by cre
 - **Deliverable 2**  (Steps 3-6):     until 02/06/2023
 
 ## Grading 
-The group assignment will contribute up to 7 points in the grade. Each member of the team will get the same grade.
+The group assignment will contribute up to 7 points to the grade. Each member of the team will get the same grade.
+
+## September Examination Period
+- The group assignment is valid for the September examination period.
+- Each team has to present their story. The deadline for all deliverables and presentations is 8/9/2023. 
+- Grading will be the same (up to 7 points).
 
 ## Report
 You submit in the coordinator's Github repository:
